@@ -25,6 +25,7 @@ This project performs sentiment analysis on text using basic Machine Learning te
 - Interview demonstration
 
 ------------ Workflow----------
+
 A. Data Collection
 B. Pre-Processing
 C. Vectorization
