@@ -1,1 +1,7 @@
+1.Install Required Libraries
+a.scikit-learn
+b.pandas
+-------------------
+2.Install them:
+pip install -r requirements.txt
 
