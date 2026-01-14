@@ -1,4 +1,4 @@
-# 😊 Sentiment Analysis using Python
+ # 😊 Sentiment Analysis using Python
 
 This project performs sentiment analysis on text using basic Machine Learning techniques.
 
@@ -23,3 +23,16 @@ This project performs sentiment analysis on text using basic Machine Learning te
 - AI beginner project
 - Resume & GitHub portfolio
 - Interview demonstration
+
+------------ Workflow----------
+A. Data Collection
+B. Pre-Processing
+C. Vectorization
+NLP
+D. Applying ML Classification Algorithms
+1. Removing punctuations, numbers & symbols.
+2. Converting into lowercase.
+3. Tokenization.
+4. Removing Stopwords.
+5. Lemmatizing.
+Evaluation
